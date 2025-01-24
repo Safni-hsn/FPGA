@@ -1,4 +1,4 @@
-# FPGA Projects
+![sddefault](https://github.com/user-attachments/assets/889ce2c5-0e64-4fd6-b9eb-40c253f5ee3d)# FPGA Projects
 
 This repository showcases my FPGA-based projects, including a Pong Game and a Mini Traffic Light Controller. These projects demonstrate my expertise in FPGA development using VHDL, with simulations performed in Vivado and Quartus Prime for different hardware platforms.
 
@@ -71,12 +71,9 @@ This project simulates a real-world traffic light system, implemented in VHDL an
 
 
 ### Mini Traffic Light Controller
-![Uploading sddefault.jpg…]()
+![sddefault](https://github.com/user-attachments/assets/ee4f648d-64e5-4f83-87e1-d69782437384)
 
 
-*(Add actual screenshots or GIFs of your projects here to make the README more engaging.)*
 
----
 
-## 🗂 Project Structure
 
