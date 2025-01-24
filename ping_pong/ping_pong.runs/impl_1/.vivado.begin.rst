@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Safni The Man" Host="LAPTOP-SJ9UM0I3" Pid="29652" HostCore="12" HostMemory="016954851328">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Safni The Man" Host="LAPTOP-SJ9UM0I3" Pid="7988" HostCore="12" HostMemory="016954851328">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Safni The Man" Host="LAPTOP-SJ9UM0I3" Pid="30552" HostCore="12" HostMemory="016954851328">
+    </Process>
+</ProcessHandle>
