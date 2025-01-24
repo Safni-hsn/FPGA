@@ -1,4 +1,4 @@
-![sddefault](https://github.com/user-attachments/assets/889ce2c5-0e64-4fd6-b9eb-40c253f5ee3d)# FPGA Projects
+# FPGA Projects
 
 This repository showcases my FPGA-based projects, including a Pong Game and a Mini Traffic Light Controller. These projects demonstrate my expertise in FPGA development using VHDL, with simulations performed in Vivado and Quartus Prime for different hardware platforms.
 
